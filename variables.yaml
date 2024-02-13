@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.mohana.cloud # submit your host
+REDIS_HOST: redis.mohana.cloud
+MYSQL_HOST: mysql.mohana.cloud
+RABBITMQ_HOST: rabbitmq.mohana.cloud
+CATALOGUE_HOST: catalogue.mohana.cloud
+USER_HOST: user.mohana.cloud
+CART_HOST: cart.mohana.cloud
+SHIPPING_HOST: shipping.mohana.cloud
+PAYMENT_HOST: payment.mohana.cloud
+DISPATCH_HOST: dispatch.mohana.cloud
